@@ -59,6 +59,6 @@ Criar produtos inteligentes que conectam dados, pessoas e aprendizado.
 
 ---
 
-## 🚀 Demo Online acesse:
+## 🚀 Acesse a Demonstração Online:
 
 https://diagnostico-bolsa-valores.vercel.app
