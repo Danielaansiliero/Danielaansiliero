@@ -56,3 +56,9 @@ desenvolvimento de soluções em IA e produtos digitais.
 
 ### 🌍 Objetivo
 Criar produtos inteligentes que conectam dados, pessoas e aprendizado.   
+
+---
+
+## 🚀 Demo Online acesse:
+
+https://diagnostico-bolsa-valores.vercel.app
