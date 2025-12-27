@@ -61,6 +61,9 @@ Criar produtos inteligentes que conectam dados, pessoas e aprendizado.
 
 ## 🚀 Acesse a Demonstração Online:
 
+https://site-demostyle.netlify.app/
+
 https://diagnostico-bolsa-valores.vercel.app
 
-https://site-demostyle.netlify.app/
+https://pythondashboard-hzzvw8zevrk52ddvrv8ymg.streamlit.app/Churn_Oportunidades
+
