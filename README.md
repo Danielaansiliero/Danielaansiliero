@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou a Daniela
 
-Analista de Dados | Estudante de Engenharia de Software
+Desenvolvedora | Analista de Dados | Estudante de Engenharia de Software
 
 Atuo na construção de soluções baseadas em dados e Inteligência Artificial,
 com experiência em desenvolvimento frontend e foco em análise de sentimento,
