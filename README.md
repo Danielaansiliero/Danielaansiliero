@@ -76,3 +76,5 @@ https://pythondashboard-hzzvw8zevrk52ddvrv8ymg.streamlit.app/Churn_Oportunidades
 Contatos: (54) 996397623
 
 E-mail: daniansiliero@gmail.com
+
+Linkedin: https://www.linkedin.com/in/daniela-ansiliero-dev/
